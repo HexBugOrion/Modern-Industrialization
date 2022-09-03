@@ -62,6 +62,7 @@ repositories {
             includeGroup "net.oskarstrom"
         }
     }
+    //dunno if I can edit it atm, so uhh :I
     maven {
         name 'Jitpack for MI'
         url 'https://jitpack.io'
